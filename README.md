@@ -29,7 +29,9 @@ Good luck! :)
 ## Result
 
 API url is: /api/Billing
+
 Basic auth: user: testuser, password: testpassword
+
 Basic auth is super simple to test to require authorization when calling API. In real life you should never hardcode login information.
 
 Body format:
